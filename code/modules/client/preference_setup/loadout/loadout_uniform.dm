@@ -484,3 +484,19 @@
 	display_name = "plain ascetic garb"
 	path = /obj/item/clothing/under/ascetic
 
+/datum/gear/uniform/robe
+	display_name = "black robe"
+	path = /obj/item/clothing/under/robe
+	
+/datum/gear/uniform/goldrobe
+	display_name = "black gold-lined robe"
+	path = /obj/item/clothing/under/goldrobe
+	
+/datum/gear/uniform/whiterobe
+	display_name = "white robe"
+	path = /obj/item/clothing/under/whiterobe
+	
+/datum/gear/uniform/whitegoldrobe
+	display_name = "white gold-lined robe"
+	path = /obj/item/clothing/under/whitegoldrobe
+	
