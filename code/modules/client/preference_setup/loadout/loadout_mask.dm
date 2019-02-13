@@ -17,7 +17,18 @@
 	display_name = "bandana, red"
 	path = /obj/item/clothing/mask/bandana/red
 
-/datum/gear/mask/sterile
-	display_name = "sterile mask"
-	path = /obj/item/clothing/mask/surgical
-	cost = 2
+/datum/gear/mask/nock_scarab
+	display_name = "nock mask (blue, scarab)"
+	path = /obj/item/clothing/mask/nock_scarab
+	
+/datum/gear/mask/nock_demon
+	display_name = "nock mask (purple, demon)"
+	path = /obj/item/clothing/mask/nock_demon
+	
+/datum/gear/mask/nock_life
+	display_name = "nock mask (green, life)"
+	path = /obj/item/clothing/mask/nock_life
+	
+/datum/gear/mask/nock_ornate
+	display_name = "nock mask (red, ornate)"
+	path = /obj/item/clothing/mask/nock_ornate
